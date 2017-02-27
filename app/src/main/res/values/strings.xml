@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TodoList</string>
+    <string name="fragment_home_tv_title">HomeFragment</string>
 </resources>
